@@ -1,5 +1,6 @@
 Markdown記法テスト
 
-1. リスト1-1
-    2. リスト1-2  
-3. リスト2  
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
