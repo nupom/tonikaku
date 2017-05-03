@@ -1,4 +1,4 @@
-# Markdown記法 GitHub Flavored Maakdown(GFM)
+# Markdown記法　　 GitHub Flavored Maakdown(GFM)
 ### エスケープ
 　　　バックスラッシュ　\  
 ### 前空白
@@ -20,15 +20,18 @@
 　　　(番号付きは1.)
    
 ### リンク
-　　　\[タイトル](url)  
+　　　\[タイトル](url)　　　[GFM](https://guides.github.com/features/mastering-markdown/)  
 　　　GFMでは自動
    
-## イメージ
-## 引用
-## インラインコード
-
-# GitHub Flavored Markdown
-## コード
-## テーブル
-## タスクリスト
-## (URLリンク)
+### イメージ
+　　　\!\[Image](url)
+### 引用
+　　　> "引用
+### インラインコード
+　　\` で　\` 挟む　　`テスト`
+### コード
+　　　\` あるいは \~ ３つで囲む
+### テーブル
+　　　\| と　-------- | ------
+### タスクリスト
+　　　\- \[x]
